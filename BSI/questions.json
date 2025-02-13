@@ -1,0 +1,45 @@
+[
+    {
+        "question": "Sieci VPN można zbudować wykorzystując: [1/1]",
+        "answers": [
+            "IDS",
+            "Wireguard",
+            "TLS",
+            "SIEM"
+        ],
+        "correct": [
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Użytkownik Windows, będący administratorem, po zalogowaniu się do systemu: [1/1]",
+        "answers": [
+            "otrzyma pełny token uprawnień i zawsze będzie korzystał z pełnego tokenu",
+            "otrzyma token pełny i ograniczony, zawsze będzie korzystał z pełnego tokenu",
+            "otrzyma token pełny i ograniczony, będzie mógł korzystać z jednego lub drugiego",
+            "otrzyma tylko token ograniczony, ale będzie mógł wykorzystać pełny token przy użyciu mechanizmu impersonation"
+        ],
+        "correct": [
+            2
+        ]
+    },
+    {
+        "question": "Metoda Diffiego-Hellmana:",
+        "answers": [
+            "pozwala bezpiecznie składować klucze prywatne użytkowników",
+            "jest odporna na ataki pasywne",
+            "jest odporna na ataki aktywne",
+            "pozwala bezpiecznie dystrybuować klucze publiczne użytkowników",
+            "wykorzystuje ideę asymetrycznej pary kluczy (prywatny-publiczny)",
+            "generuje programowo hasła SSO",
+            "pozwala wygenerować symetryczny klucz sesji",
+            "realizuje uwierzytelnianie metodą haseł jednorazowych"
+        ],
+        "correct": [
+            1,
+            4,
+            6
+        ]
+    }
+]
